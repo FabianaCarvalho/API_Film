@@ -7,9 +7,9 @@ Utilizando: Ruby, HTTParty + Rspec, retornando a listagem de filme e validando o
 
 Realize os comandos abaixo:
 
-Na pasta onde quer que fique o projeto, clique com o botão direito do mouse e selecione a opção de git bash
-No git bash digitar o comando: git init e dar enter
-Na branch master digitar o comando: git clone https://github.com/FabianaCarvalho/API_Film.git
-No Visual Studio, clicar em File -> Open Folder -> Selecione a pasta API_Films
-Para executar o projeto dentro do Terminal, basta digitar o comando: rspec
+1) Na pasta onde quer que fique o projeto, clique com o botão direito do mouse e selecione a opção de git bash
+2) No git bash digitar o comando: git init e dar enter
+3) Na branch master digitar o comando: git clone https://github.com/FabianaCarvalho/API_Film.git
+4) No Visual Studio, clicar em File -> Open Folder -> Selecione a pasta API_Films
+5) Para executar o projeto dentro do Terminal, basta digitar o comando: rspec
 Ex.: C:\AllRuby\API_Films>rspec
